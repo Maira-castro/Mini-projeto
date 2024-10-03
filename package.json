@@ -1,0 +1,17 @@
+{
+  "name": "mini-projeto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "json-server": "^0.17.4",
+    "y": "^0.3.2"
+  },
+  "scripts": {
+    "api": "npx json-server api.json --watch --port 3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
